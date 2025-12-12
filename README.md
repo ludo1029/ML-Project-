@@ -46,5 +46,5 @@ Vous pouvez consulter le notebook directement ici :
 ## Présentation 
 
 Des informations additionnelles sont susceptible de s'y trouver
-[Présentation Powerpoint](ML_final_project.ppt)
+[Présentation Powerpoint](ML_final_project.pptx)
 
